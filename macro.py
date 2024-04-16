@@ -29,7 +29,7 @@ def get_tag_name(x):
 ############ 초기 설정 ############
 # 레베카
 # loginId = 'wooseung92'
-# loginPwd = 'audgns1230*'
+# loginPwd = 'password'
 # goodsCode = '23008837'
 # targetDate = '2023-07-13 16:40:00'
 # isAutoMakingCharacter = None
@@ -44,7 +44,7 @@ def get_tag_name(x):
 ############ 초기 설정 ############
 # 레베카
 loginId = 'wooseung92'
-loginPwd = 'audgns1230*'
+loginPwd = 'password'
 goodsCode = '24001548'
 targetDate = '2023-07-18 20:00:00'
 isAutoMakingCharacter = True
@@ -58,7 +58,7 @@ isGradeSeparation = True
 
 ############ 초기 설정 ############
 # loginId = 'wooseung92'
-# loginPwd = 'audgns1230*'
+# loginPwd = 'password'
 # goodsCode = '23009492'
 # targetDate = '2023-07-13 16:40:00'
 # isAutoMakingCharacter = None # True, False, None
@@ -73,7 +73,7 @@ isGradeSeparation = True
 ############ 초기 설정 ############
 # 찰리푸스 테스트
 # loginId = 'wooseung92'
-# loginPwd = 'audgns1230*'
+# loginPwd = 'password'
 # goodsCode = '23008633'
 # targetDate = '2023-07-13 16:40:00'
 # isAutoMakingCharacter = True # True, False, None
